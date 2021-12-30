@@ -70,7 +70,7 @@ function toggleTheme() {
   //themeBase = themeBase == "light" ? "dark" : "light";
   //localStorage.setItem("themeBase", themeBase);
   //setTheme(themeBase);
-  alert("Trong này quá dảk nên không đổi sang theme khác được, chỉ có theme dảk thôi :D");
+  alert("Trong này quá dảk nên không đổi sang theme khác được, chỉ có theme dảk thôi :D\nThis page is too dark too be switched to light theme :D");
 }
 
 function setTheme(themeBase) {
