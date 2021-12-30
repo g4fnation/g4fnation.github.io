@@ -57,6 +57,14 @@ collections:
     output: true
   webexp:
     output: true
+  binexp:
+    output: true
+  reverse:
+    output: true
+  crypto:
+    output: true
+  forensic:
+    output: true
 # ------------------------------------------------------------------------------
 
 

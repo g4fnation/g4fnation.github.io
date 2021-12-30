@@ -1,6 +1,6 @@
 ---
 layout: webexp-index
 title: WEB EXPLOITAION
-description: Test page
+description: Web exploitation category
 dropdown: CTF
 ---
