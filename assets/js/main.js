@@ -67,9 +67,10 @@ function makeStrips(layers) {
 }
 
 function toggleTheme() {
-  themeBase = themeBase == "light" ? "dark" : "light";
-  localStorage.setItem("themeBase", themeBase);
-  setTheme(themeBase);
+  //themeBase = themeBase == "light" ? "dark" : "light";
+  //localStorage.setItem("themeBase", themeBase);
+  //setTheme(themeBase);
+  alert("Trong này quá dảk nên không đổi sang theme khác được, chỉ có theme dảk thôi :D");
 }
 
 function setTheme(themeBase) {
