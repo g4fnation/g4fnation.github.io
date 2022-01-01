@@ -19,7 +19,6 @@ email: "g4fnation@gmail.com"
 description: G4F Nation? Maybe? Or not? Hehe.
 #baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
 url: "https://g4fnation.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-background-image: url('/assets/img/opengraph.png')
 
 # ------------------------------------------------------------------------------
 # Custom settings
@@ -41,6 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
+background-image: "assets/img/opengraph.png"
 avatar_description: "It's not a circus, it's g4f!"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
