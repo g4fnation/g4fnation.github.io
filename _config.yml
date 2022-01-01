@@ -19,6 +19,7 @@ email: "g4fnation@gmail.com"
 description: G4F Nation? Maybe? Or not? Hehe.
 #baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
 url: "https://g4fnation.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+background-image: url('/assets/img/opengraph.png')
 
 # ------------------------------------------------------------------------------
 # Custom settings
